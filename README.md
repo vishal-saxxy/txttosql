@@ -4,7 +4,7 @@ A comprehensive guide and implementation of architectural patterns that utilize 
 
 For comprehensive details on the architectural patterns mentioned below, please refer to the accompanying article on Medium. This piece delves into the utilization of LLMS for enhanced BigQuery interactions. You can access the article via this link.
 
-[Architectural Patterns for Text-to-SQL: Leveraging LLMs for Enhanced BigQuery Interactions](https://medium.com/@shankar.arunp/architectural-patterns-for-text-to-sql-leveraging-llms-for-enhanced-bigquery-interactions-59756a749e15?source=friends_link&sk=22b06c1644e968023b24db79f2995588)
+[Architectural Patterns for Text-to-SQL: Leveraging LLMs for Enhanced BigQuery Interactions](https://medium.com/@shankar.Vishalp/architectural-patterns-for-text-to-sql-leveraging-llms-for-enhanced-bigquery-interactions-59756a749e15?source=friends_link&sk=22b06c1644e968023b24db79f2995588)
 
 ## Table of Contents
 
@@ -114,7 +114,7 @@ Follow the individual pattern READMEs for detailed setup and usage instructions.
 
 This section discusses the potential pitfalls, challenges, and areas for improvement in the application of LLMs for Text-to-SQL conversion. 
 
-See Medium article: [Architectural Patterns for Text-to-SQL: Leveraging LLMs for Enhanced BigQuery Interactions](https://medium.com/@shankar.arunp/architectural-patterns-for-text-to-sql-leveraging-llms-for-enhanced-bigquery-interactions-59756a749e15?source=friends_link&sk=22b06c1644e968023b24db79f2995588)
+See Medium article: [Architectural Patterns for Text-to-SQL: Leveraging LLMs for Enhanced BigQuery Interactions](https://medium.com/@shankar.Vishalp/architectural-patterns-for-text-to-sql-leveraging-llms-for-enhanced-bigquery-interactions-59756a749e15?source=friends_link&sk=22b06c1644e968023b24db79f2995588)
 
 ## Contributing 🤝
 
